@@ -3,4 +3,10 @@ h1{
 }
 p{
     color: #fa0;
+    font-size: 20px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #aaf;
 }
